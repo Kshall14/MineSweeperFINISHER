@@ -1,2 +1,4 @@
-﻿  MainWindow.cpp
-  MinezSweeper.vcxproj -> C:\MinezSweeper\Debug\MinezSweeper.exe
+﻿  App.cpp
+  MainWindow.cpp
+  Generating Code...
+C:\MinezSweeper\MinezSweeper\App.cpp : fatal error C1090: PDB API call failed, error code '3': C:\MinezSweeper\MinezSweeper\Debug\vc142.pdb
